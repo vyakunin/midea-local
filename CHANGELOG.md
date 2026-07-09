@@ -1,5 +1,24 @@
 # Changelog
 
+## [6.11.0](https://github.com/midea-lan/midea-local/compare/v6.10.0...v6.11.0) (2026-07-09)
+
+
+### Features
+
+* **ac:** add rate_select (power rate limit / Gen mode) support ([#469](https://github.com/midea-lan/midea-local/issues/469)) ([3e4322d](https://github.com/midea-lan/midea-local/commit/3e4322dfd49ff9cc870e088b4b7a73b467367fdf))
+* **fa:** add humidify, waterions, display_on_off (AAF10MR, subtype 0) ([#466](https://github.com/midea-lan/midea-local/issues/466)) ([80d67f6](https://github.com/midea-lan/midea-local/commit/80d67f67bc51626f93ce30223263caf04419b072))
+* report MAC address ([#488](https://github.com/midea-lan/midea-local/issues/488)) ([cd862d3](https://github.com/midea-lan/midea-local/commit/cd862d39df0dee3a8cb32f9a8d1ec182d86a2840))
+
+
+### Bug Fixes
+
+* increase device query command response timeout value ([#496](https://github.com/midea-lan/midea-local/issues/496)) ([2d3dd6e](https://github.com/midea-lan/midea-local/commit/2d3dd6e91d3cc857d03b733d2f89687743c9e446))
+
+
+### Documentation
+
+* add AGENTS.md as canonical AI agent instructions ([#489](https://github.com/midea-lan/midea-local/issues/489)) ([bb3370e](https://github.com/midea-lan/midea-local/commit/bb3370eff7298fc2d36242f269decb2f6df5d436))
+
 ## [6.10.0](https://github.com/midea-lan/midea-local/compare/v6.9.0...v6.10.0) (2026-06-27)
 
 
